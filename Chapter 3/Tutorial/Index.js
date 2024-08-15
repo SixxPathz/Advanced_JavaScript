@@ -56,6 +56,7 @@ newColor = "ForSale";
 myCar["forSale"] = true;
 console.log(myCar.make + " " + myCar.model);
 console.log(myCar.forSale);
+console.log(myCar);
 
 //Practice exercise 3.5
 let people = {
