@@ -15,7 +15,7 @@ console.log(height+" inches in meters is: " + heightInMeters.toFixed(2));
 
 // Calculate BMI
 
-let bmi = weightInKilograms / (heightInMeters * heightInMeters) * 703;
+let bmi = weightInKilograms / (heightInMeters * heightInMeters);
 
 console.log("Your BMI is: " + bmi.toFixed(2));
 
